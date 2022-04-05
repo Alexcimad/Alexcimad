@@ -1,5 +1,4 @@
 ### Hi there 👋
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my personal Ruby on Rails project SurfBuddy 
 - 🌱 I’m currently learning Ruby and Rails and React JS
